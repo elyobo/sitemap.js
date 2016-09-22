@@ -9,7 +9,9 @@
   "repository": "git://github.com/ekalinin/sitemap.js.git",
   "author": "Eugene Kalinin <e.v.kalinin@gmail.com>",
   "dependencies": {
-    "underscore": "^1.7.0",
+    "lodash.assignin": "^4.2.0",
+    "lodash.groupby": "^4.6.0",
+    "lodash.toarray": "^4.4.0",
     "url-join": "^1.1.0"
   },
   "devDependencies": {
